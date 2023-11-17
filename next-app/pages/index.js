@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Airbnb Clone</title>
+        <title>BlockLand</title>
       </Head>
 
       <Header />
